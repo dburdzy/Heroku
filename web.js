@@ -5,7 +5,7 @@ var app = express();
 
 app.use(logfmt.requestLogger());
 
-app.use(express.static(__dirname + '/info');
+app.use(express.static(process.cwd() + '/info'));
 
 app.get('/', function(req, res) {
   
