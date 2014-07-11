@@ -3,35 +3,35 @@
     "id": 0,
     "name": "e14ce61e-0517-4fd6-983d-cccfebd50087",
     "description": false,
-    "picture": "http://placehold.it/32x32",
+    "imgUrl": "http://placehold.it/32x32",
     "servings": 25
   },
   {
     "id": 1,
     "name": "bbbdd1c2-daa5-419f-92fb-c3622dbf6e80",
     "description": true,
-    "picture": "http://placehold.it/32x32",
+    "imgUrl": "http://placehold.it/32x32",
     "servings": 28
   },
   {
     "id": 2,
     "name": "989a014b-0b81-4294-a9e7-4797d50ad37e",
     "description": false,
-    "picture": "http://placehold.it/32x32",
+    "imgUrl": "http://placehold.it/32x32",
     "servings": 33
   },
   {
     "id": 3,
     "name": "ea77df3e-4e7c-4801-88c9-c41f3712411d",
     "description": false,
-    "picture": "http://placehold.it/32x32",
+    "imgUrl": "http://placehold.it/32x32",
     "servings": 29
   },
   {
     "id": 4,
     "name": "247cb837-7578-4bd2-a48f-e95f106f2dec",
     "description": true,
-    "picture": "http://placehold.it/32x32",
+    "imgUrl": "http://placehold.it/32x32",
     "servings": 22
   }
 ]
