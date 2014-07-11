@@ -1,37 +1,37 @@
 [
   {
     "id": 0,
-    "name": "e14ce61e-0517-4fd6-983d-cccfebd50087",
-    "description": false,
-    "imgUrl": "http://placehold.it/32x32",
-    "servings": 25
+    "name": "Pie",
+    "description": "The most wonderful Pie you could ever have",
+    "imgUrl": "http://secretlifeofachefswife.com/wp-content/uploads/2012/06/Patriotic_Pie-1.jpg",
+    "servings": 2
   },
   {
     "id": 1,
-    "name": "bbbdd1c2-daa5-419f-92fb-c3622dbf6e80",
-    "description": true,
-    "imgUrl": "http://placehold.it/32x32",
-    "servings": 28
+    "name": "French Fries",
+    "description": "This is why I'm fat",
+    "imgUrl": "http://www.prevention.com/sites/default/files/images/news/featured_images/french-fries-628x363_0.jpg",
+    "servings": 1
   },
   {
     "id": 2,
-    "name": "989a014b-0b81-4294-a9e7-4797d50ad37e",
-    "description": false,
-    "imgUrl": "http://placehold.it/32x32",
+    "name": "Bagel",
+    "description": "Do you even Bagel",
+    "imgUrl": "http://bagelproject.com/wp-content/uploads/2013/03/GreatCrust2.jpg",
     "servings": 33
   },
   {
     "id": 3,
-    "name": "ea77df3e-4e7c-4801-88c9-c41f3712411d",
-    "description": false,
-    "imgUrl": "http://placehold.it/32x32",
+    "name": "Pierogi",
+    "description": "Poland's greatest food",
+    "imgUrl": "http://www.roadtripsrus.com/wp-content/uploads/2013/10/Pierogi.jpg",
     "servings": 29
   },
   {
     "id": 4,
-    "name": "247cb837-7578-4bd2-a48f-e95f106f2dec",
-    "description": true,
-    "imgUrl": "http://placehold.it/32x32",
+    "name": "The questionable Burger",
+    "description": "I question it, but do you?",
+    "imgUrl": "http://2.bp.blogspot.com/-Mt_lUIcBV0k/TcBUzVkGmpI/AAAAAAAAAFY/G7Yef_Zx_7o/s1600/Udis+hamburger+buns.jpg",
     "servings": 22
   }
 ]
