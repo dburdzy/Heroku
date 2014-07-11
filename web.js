@@ -5,8 +5,11 @@ var app = express();
 
 app.use(logfmt.requestLogger());
 
+app.use(express.static(process.cwd() + '/info'));
+
 app.get('/', function(req, res) {
   
+<<<<<<< HEAD
 var text = '{ "Recipes" : [' +
 <<<<<<< HEAD
 '{ "Name":"John" , "Description":"Doe" , "Img_URL: www.nope.com" , "Servings : "1782" },' +
@@ -21,6 +24,9 @@ var text = '{ "Recipes" : [' +
 '{ "Name":"John4" , "Description":"Doe4" , "Img_URL": "www.nope4.com" , "Servings" : "1888" } ]}';
 >>>>>>> 9392bc5756d1aee658cb1c113a185c86c2933365
 
+=======
+var text = 'Hello Sir';
+>>>>>>> 81f47d6cce7a17f5cddc280a95c15efa3d40bb76
   res.send(text);
 });
 
